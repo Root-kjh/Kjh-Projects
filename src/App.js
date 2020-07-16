@@ -1,4 +1,4 @@
-import React from 'react';
+import React,{useEffect} from 'react';
 import './App.css';
 import Project_card from './components/Project_card';
 
@@ -19,6 +19,10 @@ function App() {
       link : "/recruitlist-spring"
     }
   ];
+
+  useEffect(() => {
+    document.title = "kjh-Projects";
+  })
 
   return (
     <div id="App">
