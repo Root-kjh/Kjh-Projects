@@ -17,6 +17,27 @@ function App() {
       db : "MySQL, MongoDB",
       etc : "써보고 싶은 다양한 기술스택을 사용하며 만든 프로젝트",
       link : "/recruitlist-spring"
+    },
+    {
+      title: "SoldierMailAuto",
+      backend : "미정",
+      db: "미정",
+      etc : "제작중",
+      link : "/soldier-mail-auto"
+    },
+    {
+      title: "MemorialDayCalender",
+      backend: "미정",
+      db: "미정",
+      etc: "제작중",
+      link: "/memorialday-calender"
+    },
+    {
+      title: "WarGame",
+      backend: "미정",
+      db: "미정",
+      etc: "제작중",
+      link: "/war-game"
     }
   ];
 
