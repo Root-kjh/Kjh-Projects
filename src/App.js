@@ -33,11 +33,11 @@ function App() {
       link: "/memorialday-calender"
     },
     {
-      title: "WarGame",
-      backend: "미정",
+      title: "When-Should-I-dodge",
+      backend: "Django",
       db: "미정",
-      etc: "제작중",
-      link: "/war-game"
+      etc: "제작중(롤 전적 검색을 기반으로 한 닷지 판단 웹)",
+      link: "/when-shuld-i-dodge"
     }
   ];
 
