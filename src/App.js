@@ -11,6 +11,7 @@ function App() {
       etc : "간단한 기능을 구현하되, 코드의 가독성에 집중하며 만든 프로젝트",
       link : "http://kjh-projects.kro.kr/todolist-springboot"
     },
+
     {
       title : "RecruitList",
       backend : "Spring",
@@ -18,6 +19,7 @@ function App() {
       etc : "써보고 싶은 다양한 기술스택을 사용하며 만든 프로젝트",
       link : "http://kjh-projects.kro.kr/recruitlist-spring"
     },
+    
     {
       title: "SoldierMailAuto",
       backend : "미정",
@@ -25,6 +27,7 @@ function App() {
       etc : "제작중",
       link : "http://kjh-projects.kro.kr/soldier-mail-auto"
     },
+    
     {
       title: "MemorialDayCalender",
       backend: "미정",
@@ -32,6 +35,7 @@ function App() {
       etc: "제작중",
       link: "http://kjh-projects.kro.kr/memorialday-calender"
     },
+    
     {
       title: "When-Should-I-dodge",
       backend: "Django",
