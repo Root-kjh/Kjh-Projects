@@ -6,7 +6,7 @@ import Button from '@material-ui/core/Button';
 import Typography from '@material-ui/core/Typography';
 
 
-export default function Project_card(props) {
+export default function ProjectCard(props) {
   return (
     <Card className="project">
       <CardContent>

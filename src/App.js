@@ -1,6 +1,6 @@
 import React,{useEffect} from 'react';
 import './App.css';
-import Project_card from './components/Project_card';
+import ProjectCard from './components/ProjectCard';
 
 function App() {
   const PROJECTS = [
@@ -53,7 +53,7 @@ function App() {
     <div id="App">
       {
         PROJECTS.map(project => {
-          return <Project_card title={project.title} backend={project.backend} db={project.db} etc={project.etc} link={project.link}/>
+          return <ProjectCard title={project.title} backend={project.backend} db={project.db} etc={project.etc} link={project.link}/>
         })
       }
     </div>
