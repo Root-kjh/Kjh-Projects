@@ -53,7 +53,7 @@ function App() {
     <div id="App">
       {
         PROJECTS.map(project => {
-          return <ProjectCard title={project.title} backend={project.backend} db={project.db} etc={project.etc} link={project.link}/>
+          return <ProjectCard key={title} title={project.title} backend={project.backend} db={project.db} etc={project.etc} link={project.link}/>
         })
       }
     </div>
