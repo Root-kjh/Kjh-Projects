@@ -22,7 +22,7 @@ function App() {
     
     {
       title: "SoldierMailAuto",
-      backend : "미정",
+      backend : "Flask",
       db: "미정",
       etc : "제작중",
       link : "http://kjh-projects.kro.kr/soldier-mail-auto"
@@ -30,7 +30,7 @@ function App() {
     
     {
       title: "MemorialDayCalender",
-      backend: "미정",
+      backend: "Django",
       db: "미정",
       etc: "제작중",
       link: "http://kjh-projects.kro.kr/memorialday-calender"
@@ -38,7 +38,7 @@ function App() {
     
     {
       title: "When-Should-I-dodge",
-      backend: "Django",
+      backend: "Express(node)",
       db: "미정",
       etc: "제작중(롤 전적 검색을 기반으로 한 닷지 판단 웹)",
       link: "http://kjh-projects.kro.kr/when-shuld-i-dodge"
