@@ -9,7 +9,7 @@ function App() {
       backend : "SpringBoot",
       db : "MySQL",
       etc : "간단한 기능을 구현하되, 코드의 가독성에 집중하며 만든 프로젝트",
-      link : "http://kjh-projects.kro.kr/todolist-springboot"
+      link : "http://kjh-projects.kro.kr/todo-list"
     },
 
     {
@@ -17,7 +17,7 @@ function App() {
       backend : "Spring",
       db : "MySQL, MongoDB",
       etc : "써보고 싶은 다양한 기술스택을 사용하며 만든 프로젝트",
-      link : "http://kjh-projects.kro.kr/recruitlist-spring"
+      link : "http://kjh-projects.kro.kr/recruit-list"
     },
     
     {
