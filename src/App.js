@@ -42,6 +42,13 @@ function App() {
       db: "미정",
       etc: "제작중(롤 전적 검색을 기반으로 한 닷지 판단 웹)",
       link: "http://kjh-projects.kro.kr/when-shuld-i-dodge"
+    },
+    {
+      title: "OPA-Manager",
+      backend: "gRPC(GO)",
+      db: "미정",
+      etc: "제작중",
+      link: "http://kjh-projects.kro.kr/opa-manager"
     }
   ];
 
