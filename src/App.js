@@ -21,14 +21,6 @@ function App() {
     },
     
     {
-      title: "SoldierMailAuto",
-      backend : "Flask",
-      db: "미정",
-      etc : "제작중",
-      link : "http://kjh-projects.kro.kr/soldier-mail-auto"
-    },
-    
-    {
       title: "MemorialDayCalender",
       backend: "Django",
       db: "미정",
