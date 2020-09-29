@@ -23,7 +23,7 @@ function App() {
     {
       title: "MemorialDayCalender",
       backend: "Django",
-      db: "미정",
+      db: "SQLite",
       etc: "제작중",
       link: "http://kjh-projects.kro.kr/memorialday-calender"
     },
@@ -39,6 +39,13 @@ function App() {
       title: "OPA-Manager",
       backend: "gRPC(GO)",
       db: "미정",
+      etc: "제작중",
+      link: "http://kjh-projects.kro.kr/opa-manager"
+    },
+    {
+      title: "MemorialDayCalender-Android",
+      backend: "Kotlin",
+      db: "SQLite",
       etc: "제작중",
       link: "http://kjh-projects.kro.kr/opa-manager"
     }
