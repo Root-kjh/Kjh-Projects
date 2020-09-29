@@ -43,7 +43,7 @@ function App() {
       link: "http://kjh-projects.kro.kr/opa-manager"
     },
     {
-      title: "MemorialDayCalender-Android",
+      title: "Calender-Android",
       backend: "Kotlin",
       db: "SQLite",
       etc: "제작중",
