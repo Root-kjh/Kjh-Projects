@@ -27,6 +27,14 @@ function App() {
       etc: "제작중",
       link: "http://kjh-projects.kro.kr/memorialday-calender"
     },
+
+    {
+      title: "Toyproject-Board",
+      backend: "Flask",
+      db: "MySQL",
+      etc: "제작중",
+      link: "http://kjh-projects.kro.kr/toyproject-board"
+    },
     
     {
       title: "When-Should-I-dodge",
