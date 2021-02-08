@@ -16,7 +16,7 @@ function App() {
       title : "RecruitList",
       backend : "Spring",
       db : "MySQL, MongoDB",
-      etc : "써보고 싶은 다양한 기술스택을 사용하며 만든 프로젝트",
+      etc : "써보고 싶은 다양한 기술스택을 사용하며 만든 프로젝트(코드, 디자인 업데이트중)",
       link : "http://kjh-projects.kro.kr/recruit-list"
     },
     
