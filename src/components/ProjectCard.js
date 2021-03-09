@@ -22,6 +22,7 @@ export default function ProjectCard(props) {
       </CardContent>
       <CardActions>
         <a href={props.link}><Button size="small">View</Button></a>
+        <a href={props.git_link}><Button size="small">Code</Button></a>
       </CardActions>
     </Card>
   );
