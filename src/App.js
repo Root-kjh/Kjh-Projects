@@ -32,6 +32,15 @@ function App() {
     },
 
     {
+      title: "RailsTest",
+      backend: "Ruby on Rails",
+      db: "SQLite",
+      etc: "백엔드 제작완료, view 제작중",
+      link: "http://kjh-projects.kro.kr/memorialday-calender",
+      git_link: "https://github.com/Root-kjh/RailsTest"
+    },
+
+    {
       title: "Toyproject-Board",
       backend: "Flask",
       db: "MySQL",
