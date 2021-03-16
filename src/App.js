@@ -8,7 +8,7 @@ function App() {
       title : "TodoList",
       backend : "SpringBoot",
       db : "MySQL",
-      etc : "간단한 기능을 구현하되, 코드의 가독성에 집중하며 만든 프로젝트(버전 업데이트 예정)",
+      etc : "간단한 기능을 구현하되, 코드의 가독성에 집중하며 만든 프로젝트",
       link : "http://kjh-projects.kro.kr/todo-list",
       git_link: "https://github.com/Root-kjh/TodoList-SpringBoot"
     },
@@ -43,7 +43,7 @@ function App() {
     {
       title: "Toyproject-Board",
       backend: "Flask",
-      db: "MySQL",
+      db: "MySQL, ElasticSearch",
       etc: "제작중",
       link: "http://kjh-projects.kro.kr/toyproject-board",
       git_link: "https://github.com/Root-kjh/Toyproject-Board"
