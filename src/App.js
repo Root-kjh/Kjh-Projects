@@ -38,15 +38,6 @@ function App() {
       etc: "백엔드 제작완료, view 제작중",
       link: "http://kjh-projects.kro.kr/rails-test",
       git_link: "https://github.com/Root-kjh/RailsTest"
-    },
-
-    {
-      title: "Toyproject-Board",
-      backend: "Flask",
-      db: "MySQL, ElasticSearch",
-      etc: "제작중",
-      link: "http://kjh-projects.kro.kr/toyproject-board",
-      git_link: "https://github.com/Root-kjh/Toyproject-Board"
     }
   ];
 
